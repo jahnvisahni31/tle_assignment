@@ -2,8 +2,9 @@
 
 A comprehensive web application for tracking and managing student progress through Codeforces competitive programming data. Built with React, TypeScript, and modern web technologies.
 
-![Student Progress Management System](https://images.pexels.com/photos/5428836/pexels-photo-5428836.jpeg?auto=compress&cs=tinysrgb&w=1200&h=400&fit=crop)
 
+![Student Progress Management System](https://github.com/user-attachments/assets/4c66d3a5-93ef-4764-b969-21905363613d)
+video link: https://youtu.be/yAAIyuUhpps
 ## 🚀 Features
 
 ### 📊 Dashboard
